@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: scrapy_pcpartpicker:latest
+    container_name: scrapy_pcpartpicker
+    volumes:
+      - .:/app
+    build: .
