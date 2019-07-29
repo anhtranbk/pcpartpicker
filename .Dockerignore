@@ -1,2 +1,7 @@
+crawls/
 data/
+logs/
+
 .venv/
+.git/
+.idea/
