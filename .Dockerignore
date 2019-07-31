@@ -1,6 +1,7 @@
 crawls/
 data/
 logs/
+sbin/
 
 .venv/
 .git/
