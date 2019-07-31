@@ -16,7 +16,7 @@ Find scraped data (CSV file) in the `data` directory, same name as `job_name`
 
 ### Jobs: pausing and resuming crawls
 
-You can stop the spider safely at any time (by pressing Ctrl-C or sending a signal), and resume it later by issuing the above command with same `job_name`
+You can stop the job safely at any time (by pressing Ctrl-C or sending a signal), and resume it later by issuing the above command with same `job_name`
 
 Start new job by using new `job_name` or delete the directory corresponding with paused job's `job_name` in the `crawls` directory
 
