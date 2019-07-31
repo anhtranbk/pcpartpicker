@@ -12,7 +12,7 @@ Start new job:
 
 `sbin/docker-run.sh job_name`
 
-`job_name`: name of job will be started.directory
+`job_name`: name of job will be started
 
 Find scraped data (CSV file) in the `data` directory, same name as `job_name`
 
